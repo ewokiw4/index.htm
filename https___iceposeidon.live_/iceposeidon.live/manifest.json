@@ -1,0 +1,15 @@
+{
+  "short_name": "IP Live",
+  "name": "IcePoseidon.live",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "727x726",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#353b44",
+  "background_color": "#353b44"
+}

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.iceposeidon.live	TRUE	/	FALSE	1999999999	__cfduid	d881f9d4ea04464285ba68f6a673876861585969193
+iceposeidon.live	TRUE	/	FALSE	1999999999	SameSite	Lax
+
